@@ -2,6 +2,17 @@ Visit https://darius.github.io/ for the content.
 
 This substitutes for a personal website as long as I'm too lazy to bring back my real one.
 
-(Plaintext README here instead of a README.md because it seems that
+
+Notes to self:
+
+Plaintext README here instead of a README.md because it seems that
 the latter would get served as the root page of the site, and I'd
-rather have a bit more control of the HTML.)
+rather have a bit more control of the HTML.
+
+Bing Chat suggests these alternatives to the now-dead rawgit.com, for
+serving files from my other github repos (since github will only serve
+them up as plain text, apparently):
+- statically
+- jsDelivr
+- raw.githack.com (currently using this)
+- GitCDN
