@@ -16,3 +16,12 @@ them up as plain text, apparently):
 - jsDelivr
 - raw.githack.com (currently using this)
 - GitCDN
+
+It also pointed out https://stackoverflow.com/questions/62601696/github-page-link-to-html-in-another-repo
+which fixes this from within github.
+  To publish your repo:
+    Head to the repo's settings page.
+    Scroll down to the Github Pages section.
+    Your source must currently be set to "None". Change it to "master branch".
+    Wait for some time and your site will be live at https://jason-hanser.github.io/block-schedule/
+This seems like the better way to do it. Come back to this.
